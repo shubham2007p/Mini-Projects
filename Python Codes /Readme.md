@@ -2,16 +2,6 @@
 
 Welcome to the **Python Codes** directory! This sub-folder is dedicated 100% to Python. It contains a growing collection of mini-projects, automated scripts, and small applications built entirely using Python.
 
-## 📂 Projects Overview
-
-Below is a quick directory of the projects currently housed in this folder:
-
-| Project Name | Description | Key Modules/Libraries |
-| :--- | :--- | :--- |
-| **[Project 1 Name](./project-1-file.py)** | A brief description of what this script or project does. | `math`, `random` |
-| **[Project 2 Name](./project-2-folder)** | A brief description of the second project. | `requests`, `bs4` |
-| *(Add more projects here as you build them)* | | |
-
 ## ⚙️ Prerequisites
 
 To run these projects locally, you will need to have Python installed on your machine.
